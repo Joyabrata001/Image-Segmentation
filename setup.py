@@ -6,7 +6,7 @@ setup(
     description="A Python package implementing various edge detectors including Roberts, Sobel, Laplacian of Gaussian, Marr-Hildreth, and Canny.",
     author="Joy",
     author_email="your.email@example.com",
-    url="https://github.com/yourusername/edge-detectors",
+    url="https://github.com/Joyabrata001/edge-detectors",
     packages=find_packages(include=["edge_detectors"]),
     install_requires=[
         "numpy",
