@@ -38,7 +38,7 @@ canny_high_thresholds = [100, 150, 200]
 
 # Paths
 image_path = "data/grayscale-images/baboon.png"
-canny_output_dir = "results/canny_comparison"
+canny_output_dir = "results/raw_canny_comparison"
 
 # Run tests
 test_canny(

@@ -31,7 +31,7 @@ marr_mildreth_thresholds = [10, 20, 30]
 
 # Paths
 image_path = "data/grayscale-images/baboon.png"
-marr_mildreth_output_dir = "results/marr_mildreth_comparison"
+marr_mildreth_output_dir = "results/raw_marr_mildreth_comparison"
 
 # Run tests
 test_marr_mildreth(
