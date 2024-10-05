@@ -75,5 +75,5 @@ def process_images(input_folder: str, output_folder: str):
 
 if __name__ == "__main__":
     input_folder = "data/grayscale-images"
-    output_folder = "results"
+    output_folder = "results/edge-detectors"
     process_images(input_folder, output_folder)
